@@ -1,1 +1,1 @@
-github-readme-stats.git
+https://github.com/github-readme-stats.git
